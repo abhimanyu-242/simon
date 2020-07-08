@@ -1,0 +1,57 @@
+/* Tags */
+body{
+    background-color: #323232;
+    color: #F4F6FF;
+}
+h1{
+    font-size: 3rem;
+    font-family: 'Sigmar One', cursive;
+}
+i{
+    visibility: hidden;
+}
+/* ID selectors */
+#title-div{
+    margin: 40px;
+    text-align: center;
+}
+#btn-div{
+    margin: 10px;
+}
+/* Class Selectors */
+.left-div{
+    text-align: right;
+    padding: 10px;
+}
+.right-div{
+    text-align: left;
+    padding: 10px;
+}
+.btn{
+    width: 150px;
+    height: 150px;
+}
+.btn1{
+    border-top-left-radius: 100%;
+    background-color: #9BDEAC;
+}
+.btn2{
+    border-top-right-radius: 100%;
+    background-color: #E84A5F;
+}
+.btn3{
+    border-bottom-left-radius: 100%;
+    background-color: #FBFD8A;
+}
+.btn4{
+    border-bottom-right-radius: 100%;
+    background-color: #00BCD4;
+}
+.highlight{
+    border-width: 5px;
+    border-color: #F4F6FF;
+}
+.clicked{
+    border-width: 5px;
+    border-color: #CF7500;
+}
